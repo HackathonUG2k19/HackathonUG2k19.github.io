@@ -18,5 +18,3 @@ Each tean will get a repository in this organization and we recommend working on
 ## Prizes
 The real treasure is the friends and skills you learnt on the way! Lmao yes really.
 
-## Test PR
-<b>From Mehul</b>
