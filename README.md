@@ -1,8 +1,16 @@
-This is a Hackathon with absolutely no prerequistises apart from basic coding skills and competency in Googling.<br>The duration is from _0800 hours on 23rd May to 2000 hours on 24th May, with a 5 minute presentation by each team to be judged by seniors right afterwards_.
+This is a Hackathon with absolutely no prerequistises apart from basic coding skills and competency in Googling.<br>The duration is from _0800 hours on 23rd May to 2000 hours on 24th May, with a 5 minute presentation by each team to be judged by mentors right afterwards_.
 
-## Resources
-Each team will be assigned a mentor to work with. The mentors will be hands-off guides and are not supposed to help in the code itself, but will provide personalized feedback and learning resources to teams. Upon registration, method of contact will be conveyed.
-Apart from this feel free to join:<br>
+## Guidelines for the team
+- Each team must contain **3 - 5** members. Kindly *adhere to the limit*.
+- Upon registration, each team will be assigned to their specific **mentor**.
+  - Mentors shall be there to **guide** the teams in their projects. 
+  - By *guide*, it is meant that you can ask them for resources and doubts regarding the project itself, but asking them blatantly for help (Eg. in your codes) would lead directly to **disqualification** of the team.
+- You are required to issue your first **Pull Request** by _1155 hours_ on _23rd May_. This is done so as to keep a check on the teams.
+- *Copy-Paste* of code is allowed, if code is *redistributable*. On doing so, you must cite them.
+- The coding round would end at _2000 hours_ on _24th May_. Any **commits** found after this timelimit will lead to **disqualification** of the team.
+- The team is reqired to give a **10 minute presentation** on their *respective projects*, which shall be judged.
+ 
+ Apart from this feel free to join:<br>
 <ul>
   <li> _osdg discord link_</li>
   <li> _hackathon server discord link_ </li>
@@ -24,9 +32,6 @@ Try to prioritize similar technologies, and work together to make something cool
 
 ## Submission
 Each team will get a repository in this organization and we recommend working on another working fork in your own account. You can always merge the two repos in form of a PR, and only the team leader will be able to do this. This should have a "Readme.md" file that should be the primary thing that will be presented in the Presentation phase.
-
-## Guidelines for the Team
-- Each of you will be assigned a mentor, who will *guide* you in you project.
 
 ## Prizes
 The real treasure is the friends and skills you learnt on the way! Lmao not really..<br>
