@@ -11,7 +11,7 @@ The theme is "Life @ IIIT-H" and it reflects everything about IIIT! Feel free to
 These are just examples of the numerous ideas you can build upon. The goal is to enjoy and learn in the process, and then give and recieve feedback from the other teams.
   
 ## Team
-Form teams of 3-5 members, and fill in the form: _form link_<br>
+Form teams of 3-5 members, and fill in the form: <a href = "https://forms.gle/s5QR718rv2ft3ZFC8"> Hackathon Registeration</a> <br>
 Try to prioritize similar technologies, and work together to make something cool.
 
 ## Submission
