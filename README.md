@@ -21,8 +21,6 @@ Each tean will get a repository in this organization and we recommend working on
 The real treasure is the friends and skills you learnt on the way! Lmao not really..<br>
 Here are some prizes you could win :
 <ul>
-  <li>Awesome T-shirts</li>
-  <li>__fill prize here__</li>
-  <li>__fill prize here__</li>
+  <li>TODO</li>
   </ul>
 
