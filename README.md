@@ -1,5 +1,11 @@
 This is a Hackathon with absolutely no prerequistises apart from basic coding skills and competency in Googling.<br>The duration is from _0800 hours on 23rd May to 2000 hours on 24th May, with a 5 minute presentation by each team to be judged by seniors right afterwards_.
 
+## Resources
+Each team will be assigned a mentor to work with. The mentors will be hands-off guides and are not supposed to help in the code itself, but will provide personalized feedback and learning resources to teams. Upon registration, method of contact will be conveyed.
+Apart from this feel free to join:
+_osdg discord link_
+_hackathon server discord link_
+
 ## Theme
 The theme is "Life @ IIIT-H" and it reflects everything about IIIT! Feel free to make a software to optimize cab sharing, or to track debts in JC, a Tinder to find roommates or anything cool! The important thing to realize is how you can use any language to build cool things to solve real world problems. You can use basic skills to build clever solutions like:
 
