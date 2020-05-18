@@ -4,11 +4,11 @@ This is a Hackathon with absolutely no prerequistises apart from basic coding sk
 - Each team must contain **3 - 5** members. Kindly *adhere to the limit*.
 - Upon registration, each team will be assigned to their specific **mentor**.
   - Mentors shall be there to **guide** the teams in their projects. 
-  - By *guide*, it is meant that you can ask them for resources and doubts regarding the project itself, but asking them blatantly for help (Eg. in your codes) would lead directly to **disqualification** of the team.
+  - By *guide*, it is meant that you can ask them for resources and doubts regarding the project itself, but asking them blatantly for help (Eg. in your codes) will not be entertained. Mentors are currently pursuing internships/projects so they will not always be free, but will be very helpful in giving guidelines.
 - You are required to issue your first **Pull Request** by _1155 hours_ on _23rd May_. This is done so as to keep a check on the teams.
 - *Copy-Paste* of code is allowed, if code is *redistributable*. On doing so, you must cite them.
-- The coding round would end at _2000 hours_ on _24th May_. Any **commits** found after this timelimit will lead to **disqualification** of the team.
-- The team is reqired to give a **10 minute presentation** on their *respective projects*, which shall be judged.
+- The coding round would end at _2000 hours_ on _24th May_. Before this, make sure to merge your fork with the main repository in the organization https://github.com/HackathonUG2k19. The last PR before 8pm on 24th May will be considered.
+- The team is reqired to give a maximum of a **10 minute presentation** on their *respective projects*, which shall be judged. This will be on a platform like Zoom or Teams.
  
  Apart from this feel free to join:<br>
 <ul>
@@ -31,13 +31,13 @@ Form teams of 3-5 members, and fill in the form: <a href = "https://forms.gle/s5
 Try to prioritize similar technologies, and work together to make something cool.
 
 ## Submission
-Each team will get a repository in this organization and we recommend working on another working fork in your own account. You can always merge the two repos in form of a PR, and only the team leader will be able to do this. This should have a "Readme.md" file that should be the primary thing that will be presented in the Presentation phase.
+Each team will get a repository in this organization and we recommend working on another working fork in your own account. You can always merge the two repos in form of a PR, and only the team leader will be able to do this. This should have a "Readme.md" file that should be the primary thing that will be presented in the Presentation phase. Further details will be conveyed.
 
 ## Prizes
 The real treasure is the friends and skills you learnt on the way! Lmao not really..<br>
 Here are some prizes you could win :
 <ul>
   <li>Awesome T-Shirts by E-Cell</li>
-  <li>TODO</li>
+  <li>Amazing projects to include in your resume</li>
   </ul>
 
