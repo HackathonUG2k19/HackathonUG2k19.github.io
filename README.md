@@ -16,5 +16,11 @@ Try to prioritize similar technologies, and work together to make something cool
 Each tean will get a repository in this organization and we recommend working on another working fork in your own account. You can always merge the two repos in form of a PR, and only the team leader will be able to do this. This should have a "Readme.md" file that should be the primary thing that will be presented in the Presentation phase.
 
 ## Prizes
-The real treasure is the friends and skills you learnt on the way! Lmao yes really.
+The real treasure is the friends and skills you learnt on the way! Lmao not really..<br>
+Here are some prizes you could win :
+<ul>
+  <li>Awesome T-shirts</li>
+  <li>__fill prize here__</li>
+  <li>__fill prize here__</li>
+  </ul>
 
